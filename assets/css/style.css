@@ -1,0 +1,36 @@
+.jumbotron {
+	width:100%;
+    background-color: blue;
+    color:white;
+    text-align: center;
+}
+
+body {
+	background-image: url("../images/whitenoise.jpg");
+	font-weight:bold;
+	font-size:20px;
+}
+
+#gifButtons {
+	margin-bottom:150px;
+	margin-left:20px;
+}
+
+button {
+	float:left;
+	margin:10px;
+}
+
+
+img { 
+    height: 200px;
+    width: 200px;
+}
+
+
+
+.gifDiv{
+	float:left;
+	margin:25px;
+}
+
